@@ -1,0 +1,13 @@
+.add {
+    color: blue;
+}
+
+.add .form-second-div {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.add h1 {
+    text-align: center;
+}

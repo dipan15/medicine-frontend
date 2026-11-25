@@ -1,0 +1,50 @@
+{
+  "medicines": {
+      "1": {
+        "medId": 1,
+        "drugId": "D01",
+        "brandName": "Tylenol",
+        "dosageForm": "Tablet",
+        "concentration": "500mg",
+        "price": 1000,
+        "id": "U_czW13ezNQ"
+      },
+      "2": {
+        "medId": 2,
+        "drugId": "D02",
+        "brandName": "Lipitor",
+        "dosageForm": "Capsule",
+        "concentration": "100mg",
+        "price": 2000,
+        "id": "HKcSpXFUk3M"
+      },
+      "3": {
+        "medId": 3,
+        "drugId": "D03",
+        "brandName": "ABC",
+        "dosageForm": "Capsule",
+        "concentration": "100mg",
+        "price": 3000,
+        "id": "VGoeLhFEmaI"
+      },
+      "4": {
+        "medId": "4",
+        "drugId": "D04",
+        "brandName": "Def",
+        "dosageForm": "Capsule",
+        "concentration": "400mg",
+        "price": "4000",
+        "id": "hLwOsPxihR0"
+      },
+      "5": {
+        "medId": "5",
+        "drugId": "D05",
+        "brandName": "Wer",
+        "dosageForm": "Syrup",
+        "concentration": "100mg",
+        "price": "5000",
+        "id": "92jE7_ckYjU"
+      }
+    },
+  "$schema": "./node_modules/json-server/schema.json"
+}

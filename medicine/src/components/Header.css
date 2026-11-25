@@ -1,0 +1,28 @@
+.header {
+  background-color: lightpink;
+  padding: 10px;
+  text-align: left;
+}
+
+.header-centralize {
+  display: inline-flex;         /* Places items in a single row */
+  align-items: center;      /* Vertically centers children */
+  justify-content: center;  /* Horizontally centers children */
+  gap: 15px;             /* Adds space between items */
+}
+
+.header ul.header-menu-links {
+  list-style-type: none; /* Removes bullets/markers */
+  display: inline-flex;         /* Places items in a single row */
+  gap: 15px;             /* Adds space between items */
+  justify-content: center;  /* Horizontally centers children */
+  padding: 0;            /* Removes default padding */
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-left: 10px;
+}
+
+.header ul.header-menu-links li a {
+  color: deeppink;
+  text-decoration: none;
+}

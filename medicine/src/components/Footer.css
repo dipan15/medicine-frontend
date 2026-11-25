@@ -1,0 +1,19 @@
+.footer {
+  min-height: 100vh;
+  background-color: lightpink;
+  padding: 10px;
+}
+
+.footer ul.footer-menu-links {
+  list-style-type: none; /* Removes bullets/markers */
+  display: flex;         /* Places items in a single row */
+  justify-content: left;
+  gap: 15px;             /* Adds space between items */
+  padding: 0;            /* Removes default padding */
+  margin: 0;
+}
+
+.footer ul.footer-menu-links li a {
+  color: deeppink;
+  text-decoration: none;
+}
