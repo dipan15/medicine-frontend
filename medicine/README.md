@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Notes
+Notes: 
 PUT/DELETE http://localhost:8090/medicineapi/medicines/1
 npm install react-router
 npm install react-router-dom
